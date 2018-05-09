@@ -8,9 +8,10 @@ body{
 	color:#524c49;	
 }
 
-#encabezado{
-	margin-left: 800px;
+#menu-principal{
 	margin-top: 9px;
+	margin-bottom: 9px;
+	float:right;
 }
 
 .imgRedonda {
@@ -30,6 +31,7 @@ body{
 	font-family: 'Press Start 2P', cursive;
 	padding-top: 80px;
 	margin-top: 9px;
+	clear:both;
 }
 
 #center{
@@ -63,23 +65,6 @@ nav li a:hover{
 .centrado{
 	margin-left: 130px;
 }
-
-#contenido article{
-	width: 46%;
-	float: left; 
-	margin: .5%;
-	border: 1px dashed black;
-	padding: .5%;
-	text-align: justify;
-	background: #fbf8f7;
-	color:#524c49;
-}
-
-aside{
-	clear:both;
-}
-
-
 
 
 
